@@ -1,4 +1,2 @@
 ## hi
-I build websites mainly using JavaScript and Tailwind CSS.
-
-See my website for more about me: https://jakeo.dev
+I build websites mainly using JavaScript and Tailwind CSS, and I've built my personal website (https://jakeo.dev) using React and Next.js.
